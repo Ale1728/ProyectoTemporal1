@@ -16,6 +16,8 @@ public class TemporalA {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Hola Mundo Prueba de Repositorio :)","SIS16-A",1);
+        
+        JOptionPane.showMessageDialog(null, "Muy Buenas Profe.Tzec)","SIS16-A",1);
     }
     
 }
